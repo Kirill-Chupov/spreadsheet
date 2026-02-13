@@ -1,1 +1,2 @@
-# spreadsheet
+# cpp-spreadsheet
+Дипломный проект: Электронная таблица
