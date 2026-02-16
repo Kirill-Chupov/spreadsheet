@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Others
+build
+dist
+antlr4_runtime
+antlr*.jar
